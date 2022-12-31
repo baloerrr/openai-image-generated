@@ -1,0 +1,7 @@
+POST http://localhost:5000/api/openai/
+Content-Type: application/json
+
+{
+    "prompt": "human with cake",
+    "size": "small"
+}
